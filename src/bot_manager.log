@@ -1,0 +1,3 @@
+2024-12-04 15:29:15 - bot_app.gui - INFO - Initializing bot manager with config: {'keyword': 'Plaque  professionnelle', 'target_site': 'https://otypo.com/signaletique/plaque-professionnelle/personnalisee/', 'bot_count': 1, 'pages_to_visit': 3, 'time_on_site': 30, 'use_france_gps': False, 'use_proxies': False, 'google_domain': 'google.fr', 'visit_competitors': False, 'competitors_count': 0}
+2024-12-04 15:29:15 - bot_app.manager - INFO - Starting 1 bots...
+2024-12-04 15:29:15 - bot_app.manager - INFO - Initializing bot 1/1

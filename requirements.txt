@@ -1,0 +1,7 @@
+playwright==1.39.0
+customtkinter==5.2.0
+pillow==10.0.0
+pyinstaller==6.1.0
+python-dotenv==1.0.0
+questionary==2.0.1
+packaging>=23.2
